@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @neurhost
-- 👀 I’m interested in HACKER
+- 👀 I’m interested in HACKING and AI
 - 🌱 I’m currently learning PENTESTING
 - 💞️ I’m looking to collaborate on MY PEN-OFFICESUITE
-- 📫 How to reach me DISCORD
+- 📫 How to reach me DISCORD or neurhost@gmail.com
 
 <!---
 neurhost/neurhost is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
